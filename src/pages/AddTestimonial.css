@@ -1,0 +1,26 @@
+.add-testimonial {
+    padding: 20px;
+  }
+  
+  .add-testimonial form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .add-testimonial form label {
+    margin-bottom: 5px;
+  }
+  
+  .add-testimonial form input,
+  .add-testimonial form textarea {
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 1em;
+  }
+  
+  .add-testimonial form button {
+    padding: 10px;
+    font-size: 1em;
+    cursor: pointer;
+  }
+  
